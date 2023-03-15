@@ -1,48 +1,48 @@
-# Project Name
-> Outline a brief description of your project.
+# Exploratory Data Analysis on data from Lending Club
+> Exploratory Data Analysis to identify the variables that related to loan default.
 
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
+* [Introduction](#Introduction-to-the-Case-Study)
+* [Method Used](#Methodology)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+## Introduction to the Case Study
+- To understand how data is used to minimise the risk of losing money while lending to customers.
+- When the company receives a loan application, decision has to be made for loan approval based on the applicant’s profile. 
+- Decision on loan approval is linked with risks associated with business and financial loss.
+- The dataset contains information about past loan applicants and whether they ‘defaulted’ or not.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Higher the loan amount more likely it could be default
+- Higher interest rates are linked with loan default
+- Loans with 60 months term are more likely to be default
+- Borrowers with own home are less likely to default
+
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+## Methodology
+- Exploratory Data Analysis
+- Python Coding
+- NumPy, Pandas, Seaborn, Matplotlib libraries
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by various studies available in different research articles and open source articles. 
+
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@RameshkumarSanthosh] - feel free to contact me!
 
 
 <!-- Optional -->
